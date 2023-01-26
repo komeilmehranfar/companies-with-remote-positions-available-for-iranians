@@ -18,3 +18,5 @@ Please create a pull request to add your company if you work remotely in a good 
 ### Malta
 - Xcoin [Website](https://xcoins.com/en/) - [Linkedin](https://www.linkedin.com/company/realxcoins/)
 
+### United Kingdom
+- Geeks Ltd [Website](https://www.geeks.ltd.uk/) - [Linkedin](https://uk.linkedin.com/company/geeks-ltd)
