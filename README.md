@@ -6,17 +6,11 @@ Please create a pull request to add your company if you work remotely in a good 
 
 
 ## The list
-### Armenia
 - Ucraft [Website](https://www.ucraft.com/) - [Linkedin](https://www.linkedin.com/company/ucraft/) - [Careers Page](https://jobs.ucraft.com/jobs/Careers)
-
-### Switzerland
 - Wisdomise [Website](https://wisdomise.io/) - [Linkedin](https://www.linkedin.com/company/wisdomise/)
-
-### Australia
 - VHS Lab [Website](https://www.vhslab.com/) - [Linkedin](https://www.linkedin.com/company/virtually-human/)
-
-### Malta
 - Xcoin [Website](https://xcoins.com/en/) - [Linkedin](https://www.linkedin.com/company/realxcoins/)
-
-### United Kingdom
 - Geeks Ltd [Website](https://www.geeks.ltd.uk/) - [Linkedin](https://uk.linkedin.com/company/geeks-ltd)
+- Deloitte [Website](https://www2.deloitte.com/nl/nl.html) - [Linkedin](https://www.linkedin.com/company/deloitte/)
+- Etudit [Website](https://etudit.com/) - [Linkedin](https://www.linkedin.com/company/etudit/)
+- Steelorbis [Website](https://www.steelorbis.com/) - [Linkedin](https://www.linkedin.com/company/steelorbis/)
