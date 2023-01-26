@@ -14,3 +14,7 @@ Please create a pull request to add your company if you work remotely in a good 
 
 ### Australia
 - VHS Lab [Website](https://www.vhslab.com/) - [Linkedin](https://www.linkedin.com/company/virtually-human/)
+
+### Malta
+- Xcoin [Website](https://xcoins.com/en/) - [Linkedin](https://www.linkedin.com/company/realxcoins/)
+
