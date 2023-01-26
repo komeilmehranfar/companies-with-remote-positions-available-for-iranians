@@ -12,3 +12,5 @@ Please create a pull request to add your company if you work remotely in a good 
 ### Switzerland
 - Wisdomise [Website](https://wisdomise.io/) - [Linkedin](https://www.linkedin.com/company/wisdomise/)
 
+### Malta
+- Xcoin [Website](https://xcoins.com/en/) - [Linkedin](https://www.linkedin.com/company/realxcoins/)
