@@ -1,4 +1,4 @@
-# Companies with remote positions which hire Iranian experts
+# Companies with remote positions that hire Iranian experts
 
 Hi everyone, we want to list companies that hire Iranians for remote positions. 
 If you are an expert and you are trying to get hired at a remote position in an international company, this list will help you.
