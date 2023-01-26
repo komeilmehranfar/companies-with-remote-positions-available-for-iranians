@@ -7,7 +7,7 @@ Please create a pull request to add your company if you work remotely in a good 
 
 ## The list
 ### Armenia
-- Ucraft [Website](https://www.ucraft.com/) - [Linkedin](https://www.linkedin.com/company/ucraft/)
+- Ucraft [Website](https://www.ucraft.com/) - [Linkedin](https://www.linkedin.com/company/ucraft/) - [Careers Page](https://jobs.ucraft.com/jobs/Careers)
 
 ### Switzerland
 - Wisdomise [Website](https://wisdomise.io/) - [Linkedin](https://www.linkedin.com/company/wisdomise/)
