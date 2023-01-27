@@ -14,3 +14,4 @@ Please create a pull request to add your company if you work remotely in a good 
 - Deloitte [Website](https://www2.deloitte.com/nl/nl.html) - [Linkedin](https://www.linkedin.com/company/deloitte/)
 - Etudit [Website](https://etudit.com/) - [Linkedin](https://www.linkedin.com/company/etudit/)
 - Steelorbis [Website](https://www.steelorbis.com/) - [Linkedin](https://www.linkedin.com/company/steelorbis/)
+- Communere [Website](https://communere.com/) - [Linkedin](https://www.linkedin.com/company/communere/)
