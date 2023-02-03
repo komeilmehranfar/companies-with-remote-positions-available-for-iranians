@@ -15,3 +15,4 @@ Please create a pull request to add your company if you work remotely in a good 
 - Etudit [Website](https://etudit.com/) - [Linkedin](https://www.linkedin.com/company/etudit/)
 - Steelorbis [Website](https://www.steelorbis.com/) - [Linkedin](https://www.linkedin.com/company/steelorbis/)
 - Communere [Website](https://communere.com/) - [Linkedin](https://www.linkedin.com/company/communere/)
+- Payever [Website](https://getpayever.com/) - [Linkedin](https://www.linkedin.com/company/payever/) - [FAQ](https://docs.google.com/presentation/d/1WT1a7oZnpSnmcRVGtdCZ4vZo7oHNOar--p_UetsFqSI/edit#slide=id.g53cdc0b7ac_1_81)
